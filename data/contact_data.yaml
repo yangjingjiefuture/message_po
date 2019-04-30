@@ -1,0 +1,13 @@
+test_add_phone:
+  test_add_phone001:
+    name: "meimei"
+    nickname: "xx"
+    phone: "18800000002"
+  test_add_phone001:
+    name: "lanlan"
+    nickname: "haha"
+    phone: "18800000003"
+test_add_email:
+  test_add_email001:
+    name: "lele"
+    email: "123@qq.com"

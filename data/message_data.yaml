@@ -1,0 +1,7 @@
+test_send_message:
+  test_send_message_001:
+    name: "xiaohua"
+    phone: "18800000001"
+  test_send_message_002:
+    name: "xiaoxiao"
+    phone: "18800000002"
